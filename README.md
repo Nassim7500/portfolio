@@ -10,7 +10,7 @@ Je suis curieux, autonome et j’apprécie travailler sur des projets concrets, 
 | Année | Formation |
 |-------|-----------|
 | 2023-2025 | BUT Informatique – UPJV, Amiens |
-| 2020-2023 | Bac Général – Spécialités Mathématiques et NSI |
+| 2020-2023 | Bac Général – Spécialités Mathématiques et NSI – Lycée Madeleine Michelis |
 
 ---
 
@@ -34,34 +34,47 @@ Je suis curieux, autonome et j’apprécie travailler sur des projets concrets, 
 ### Travailler dans une équipe informatique
 > Collaborer au sein d’une équipe, communiquer efficacement, s’intégrer dans un environnement professionnel, faire preuve d’autonomie et de responsabilité.
 
----
+<div style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap;"> 
 
-## Langages
+  <div style="flex: 1; min-width: 250px;">
+Front-end
+HTML
 
-### Front-end
-- HTML
-- CSS
-- JS
-- Bootstrap
-- Tailwind
-- C#
+CSS
 
-### Back-end
-- C
-- C++
-- C#
-- Python
-- PHP (Laraval)
+JS
 
-### Base de données
-- MySQL
+Bootstrap
 
-### Outils
-- Git
-- Bash
-- Unix
+Tailwind
 
----
+C#
+
+Base de données
+MySQL
+
+</div> 
+
+  <div style="flex: 1; min-width: 250px;">
+Back-end
+C
+
+C++
+
+C#
+
+Python
+
+PHP (Laravel)
+
+Outils
+Git
+
+Bash
+
+Unix
+
+</div> </div>
 
 ## Projets & expériences (SAÉ, stages)
 
