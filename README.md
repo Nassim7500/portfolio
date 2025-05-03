@@ -1,10 +1,4 @@
-# Portfolio – Nassim Idris
-
-Bienvenue sur mon portfolio en ligne, réalisé dans le cadre de ma 2ᵉ année en BUT Informatique à l’UPJV.
-
----
-
-## Qui suis-je ?
+# Qui suis-je ?
 
 Je m'appelle **Nassim Idris**, étudiant passionné par l'informatique, en particulier le développement web.  
 Je suis curieux, autonome et j’apprécie travailler sur des projets concrets, en équipe ou en autonomie.
@@ -39,6 +33,33 @@ Je suis curieux, autonome et j’apprécie travailler sur des projets concrets, 
 
 ### Travailler dans une équipe informatique
 > Collaborer au sein d’une équipe, communiquer efficacement, s’intégrer dans un environnement professionnel, faire preuve d’autonomie et de responsabilité.
+
+---
+
+## Langages
+
+### Front-end
+- HTML
+- CSS
+- JS
+- Bootstrap
+- Tailwind
+- C#
+
+### Back-end
+- C
+- C++
+- C#
+- Python
+- PHP (Laraval)
+
+### Base de données
+- MySQL
+
+### Outils
+- Git
+- Bash
+- Unix
 
 ---
 
