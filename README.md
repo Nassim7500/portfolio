@@ -34,47 +34,21 @@ Je suis curieux, autonome et j’apprécie travailler sur des projets concrets, 
 ### Travailler dans une équipe informatique
 > Collaborer au sein d’une équipe, communiquer efficacement, s’intégrer dans un environnement professionnel, faire preuve d’autonomie et de responsabilité.
 
-<div style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap;"> 
+| **Front-end** | **Back-end**  |
+| ------------- | ------------- |
+| HTML          | C             |
+| CSS           | C++           |
+| JavaScript    | C#            |
+| Bootstrap     | Python        |
+| Tailwind      | PHP (Laravel) |
+| C# (pour GUI) |               |
 
-  <div style="flex: 1; min-width: 250px;">
-Front-end
-HTML
+| **Base de données** | **Outils** |
+| ------------------- | ---------- |
+| MySQL               | Git        |
+|                     | Bash       |
+|                     | Unix       |
 
-CSS
-
-JS
-
-Bootstrap
-
-Tailwind
-
-C#
-
-Base de données
-MySQL
-
-</div> 
-
-  <div style="flex: 1; min-width: 250px;">
-Back-end
-C
-
-C++
-
-C#
-
-Python
-
-PHP (Laravel)
-
-Outils
-Git
-
-Bash
-
-Unix
-
-</div> </div>
 
 ## Projets & expériences (SAÉ, stages)
 
