@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 # Qui suis-je ?
 
 Je m'appelle **Nassim Idris**, étudiant passionné par l'informatique, en particulier le développement web.  
