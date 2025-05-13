@@ -38,18 +38,18 @@ Je suis curieux, autonome et j’apprécie travailler sur des projets concrets, 
 
 | **Front-end** | **Back-end**  |
 | ------------- | ------------- |
-| HTML <i class="devicon-html5-plain colored"></i>         | C             |
-| CSS           | C++           |
-| JavaScript    | C#            |
-| Bootstrap     | Python <i class="devicon-python-plain colored"></i>       |
-| Tailwind      | PHP (Laravel)|
-| C# (pour GUI) |               |
+| HTML <i class="devicon-html5-plain colored"></i>         | C <i class="devicon-c-plain colored"></i>            |
+| CSS <i class="devicon-css3-plain colored"></i>          | C++ <i class="devicon-cplusplus-plain colored"></i>          |
+| JavaScript <i class="devicon-javascript-plain colored"></i>   | C# <i class="devicon-csharp-plain colored"></i>            |
+| Bootstrap <i class="devicon-bootstrap-plain colored"></i>    | Python <i class="devicon-python-plain colored"></i>       |
+| Tailwind <i class="devicon-tailwindcss-plain colored"></i>     | PHP (Laravel) <i class="devicon-php-plain colored"></i>|
+
 
 | **Base de données** | **Outils** |
 | ------------------- | ---------- |
-| MySQL               | Git        |
-|                     | Bash       |
-|                     | Unix       |
+| MySQL <i class="devicon-mysql-plain colored"></i>              | Git <i class="devicon-git-plain colored"></i>       |
+|                     | Bash <i class="devicon-bash-plain colored"></i>     |
+|                     | Unix <i class="devicon-linux-plain colored"></i>     |
 
 
 ## Projets & expériences (SAÉ, stages)
