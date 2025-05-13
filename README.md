@@ -36,11 +36,11 @@ Je suis curieux, autonome et j’apprécie travailler sur des projets concrets, 
 
 | **Front-end** | **Back-end**  |
 | ------------- | ------------- |
-| HTML          | C             |
+| HTML <i class="devicon-html5-plain colored"></i>         | C             |
 | CSS           | C++           |
 | JavaScript    | C#            |
-| Bootstrap     | Python        |
-| Tailwind      | PHP (Laravel)<i class="devicon-php-plain colored"></i> |
+| Bootstrap     | Python <i class="devicon-python-plain colored"></i>       |
+| Tailwind      | PHP (Laravel)|
 | C# (pour GUI) |               |
 
 | **Base de données** | **Outils** |
