@@ -86,8 +86,8 @@ Je me vois poursuivre dans le développement web, tout en continuant à apprendr
 
 ## Me contacter
 
-- Téléphone: 07 67 34 63 41
-- Email : idris.nassim@free.fr
+- Téléphone: 01 23 45 67 89
+- Email : x.y@gmail.com
 
 ---
 
