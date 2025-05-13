@@ -40,7 +40,7 @@ Je suis curieux, autonome et j’apprécie travailler sur des projets concrets, 
 | CSS           | C++           |
 | JavaScript    | C#            |
 | Bootstrap     | Python        |
-| Tailwind      | PHP (Laravel) |
+| Tailwind      | PHP (Laravel)<i class="devicon-php-plain colored"></i> |
 | C# (pour GUI) |               |
 
 | **Base de données** | **Outils** |
